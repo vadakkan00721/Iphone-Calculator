@@ -1,0 +1,200 @@
+
+.whole_page{
+    border: solid black 2px;
+    background-color: black;
+}
+.full_container{
+    height: 100vh;
+    border: solid #d8caca 5px;
+    width: 350px;
+    border-radius: 12px;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+}
+
+.section_input{
+    border: solid black 1px;
+}
+.input{
+    display: flex;
+    flex-direction: row-reverse;
+    border: solid black 2px;
+    border-radius: 5px; 
+    height: 12vh;  
+}
+.symbols_row{
+    border: solid black 1px;
+    display: flex;
+    flex-direction: unset;
+    justify-content: space-evenly;
+
+}
+.num_row{
+    border: solid black 1px;
+    display: flex;
+    flex-direction: unset;
+    justify-content: space-evenly;  
+}
+.num_row_2{
+    border: solid black 1px;
+    display: flex;
+    flex-direction: unset;
+    justify-content: space-evenly;  
+}
+.num_row_3{
+    border: solid black 1px;
+    display: flex;
+    flex-direction: unset;
+    justify-content: space-evenly;  
+}
+.num_row_4{
+    border: solid black 1px;
+    display: flex;
+    flex-direction: unset;
+    justify-content: space-evenly;  
+}
+.num1{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    background-color: rgb(165,165,165);
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    border-radius: 25px;
+    justify-content: center;
+    text-align: center;
+
+}
+.num2{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    background-color:rgb(165,165,165);
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    border-radius: 25px;
+    justify-content: center;
+    text-align: center;
+
+}
+.num3{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    background-color:rgb(165,165,165);
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    border-radius: 25px;
+    justify-content: center;
+    text-align: center;
+
+}
+.num4{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    background-color:rgb(255,159,10);
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    border-radius: 25px;
+    justify-content: center;
+    text-align: center;
+
+}
+.num7{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    background-color:rgb(165,165,165);
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    border-radius: 25px;
+    justify-content: center;
+    text-align: center;
+
+}
+.num8{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    background-color:rgb(165,165,165);
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    border-radius: 25px;
+    justify-content: center;
+    text-align: center;
+
+}
+.num9{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    background-color:rgb(165,165,165);
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    border-radius: 25px;
+    justify-content: center;
+    text-align: center;  
+}
+.num10{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    background-color:rgb(255,159,10);
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    border-radius: 25px;
+    justify-content: center;
+    text-align: center;
+}
+.num0{
+    width: 120px;
+    height: 50px;
+    border: 2px solid;
+    background-color:rgb(165,165,165);
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    border-radius: 25px;
+    justify-content: center;
+    text-align: center;
+}
+.numpoint{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    background-color:rgb(165,165,165);
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    border-radius: 25px;
+    justify-content: center;
+    text-align: center;
+}
+.numequal{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    background-color:rgb(255,159,10);
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    border-radius: 25px;
+    justify-content: center;
+    text-align: center;
+}
+.white{
+    color: white;
+    font-size: 50px;
+margin-right: 28px;
+}
